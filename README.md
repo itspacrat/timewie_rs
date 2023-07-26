@@ -1,9 +1,9 @@
 # TIMEWIE<sub><i>rs</i></sub>
 ###### a rust lib for fuzzy time parsing of unix timestamps
 ## Navigation
-- [Examples](#Examples)
-- [Building](#Building)
-- [Plans](#Plans)
+- [Examples](#examples)
+- [Building](#building)
+- [Plans](#plans)
 ## Examples
 
 ## Building
